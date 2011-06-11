@@ -1,4 +1,6 @@
-Copyright (c) 2011 [name of plugin creator]
+Copyright (c) 2006 Alex Wayne
+Some additional features added 2009 by Georg Ledermann
+Ported to Rails 3 in 2011 by Chris Blackburn
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
