@@ -1,0 +1,3 @@
+sqlite3:
+  adapter: sqlite3
+  dbfile: vendor/plugins/rails3_settings/test/settings.sqlite3.db
