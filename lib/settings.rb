@@ -1,6 +1,8 @@
 class Settings < ActiveRecord::Base
   class SettingNotFound < RuntimeError; end
   
+  attr_accessible :var, :value, :target_id, :target_type
+
   cattr_accessor :defaults
   @@defaults = {}.with_indifferent_access
   
